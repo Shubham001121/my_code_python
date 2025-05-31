@@ -1,4 +1,4 @@
-#Rock paper scissors 2:
+# Rock paper scissors 2:
 player_score = 0 
 computer_score = 0
 Draws = 0
